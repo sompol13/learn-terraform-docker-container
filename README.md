@@ -1,4 +1,4 @@
 # Terraform
 
 ## Quick start tutorial
-Provision an NGINX server using Docker on Mac.
+- Provision an NGINX server using Docker on Mac.

@@ -1,4 +1,4 @@
-## Learn - Build Infrastructure - Terraform Docker Example
+## Build Infrastructure - Terraform Docker Example
 Provision an NGINX server using Docker on a Mac.
 - Required local Docker Desktop running.
 
